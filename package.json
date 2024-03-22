@@ -62,7 +62,10 @@
     }
   },
   "description": "hello",
-  "repository": "https://github.com/Anup-rajendra/change.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anup-rajendra/change.git"
+  },
   "author": "Anup-rajendra <anupsargur2@gmail.com>",
   "dependencies": {
     "@types/node": "^20.11.30"
