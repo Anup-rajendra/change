@@ -1,3 +1,16 @@
+# v0.1.1 (Fri Mar 22 2024)
+
+#### ⚠️ Pushed to `main`
+
+- To Update ([@Anup-rajendra](https://github.com/Anup-rajendra))
+- 0.1.1 ([@Anup-rajendra](https://github.com/Anup-rajendra))
+
+#### Authors: 1
+
+- [@Anup-rajendra](https://github.com/Anup-rajendra)
+
+---
+
 # v0.1.2 (Fri Mar 22 2024)
 
 #### ⚠️ Pushed to `main`
